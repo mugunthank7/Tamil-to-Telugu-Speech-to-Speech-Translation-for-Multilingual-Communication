@@ -1,8 +1,8 @@
 # Tamil-to-Telugu Speech-to-Speech Translation for Multilingual Communication
 
 ## Authors
-1. K. Praneetha, Amrita Vishwa Vidyapeetham, Coimbatore, India
-2. K. Mugunthan, Amrita Vishwa Vidyapeetham, Coimbatore, India
+1.K. Mugunthan, Amrita Vishwa Vidyapeetham, Coimbatore, India
+2. K. Praneetha, Amrita Vishwa Vidyapeetham, Coimbatore, India
 3. Voruvuru Sisir Kausthubh, Amrita Vishwa Vidyapeetham, Coimbatore, India
 4. M. Vignesh, Amrita Vishwa Vidyapeetham, Coimbatore, India
 
